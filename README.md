@@ -1,5 +1,8 @@
 # Big O Notation - Java - 18-1 - Partial
 
+Buenos días profesor, el día de ayer había realizado las tareas en el repositorio de los ejercicios que hicimos la clase del sábado,
+pero por si no vuelve a revisarlo, lo estoy subiendo en un nuevo repositorio las tareas. El reposirotio anterior se llama ADS2018
+
 ----------------------------
 Tarea 2:
 ----------------------------
@@ -10,8 +13,9 @@ Se realizó la migración del algoritmo para encontrar la serie fibonacci, linea
  - Genexus
  - Javascript 
  
-El algoritmo hecho en clase lo programé en el lenguaje Java.
-Creé la carpeta "archivos" donde están los código fuente del algoritmo para cada lenguaje.
+- El algoritmo hecho en clase lo programé en el lenguaje Java.
+- Creé la carpeta "archivos" donde están sólo los código fuente del algoritmo para cada lenguaje.
+- Creé la carpeta "proyectos" donde esán las soluciones completas de C# (ConsoleApplication1), Visual c++ (Fibonacci_cplus), y el XPZ de la base de conocimientos de GX (Fibonacci.xpz).
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
